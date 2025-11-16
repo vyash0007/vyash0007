@@ -1,6 +1,6 @@
 # Hi there, I'm Yash Verma 👋
 
-### 💻 Passionate Web Developer from India
+### 💻 Passionate Web Developer
 
 I love building modern, responsive, and high‑performance web applications. I enjoy experimenting with new technologies, improving UI/UX, and writing clean, scalable code.
 
